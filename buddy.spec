@@ -66,5 +66,8 @@ make %{?_smp_mflags}
    %{_libdir}/libbdd.so.0.0.0
 
 %changelog
+* Tue Oct 20 2020 Jan Tusil <jenda.tusil@gmail.com> 2.4-1
+- new package built with tito
+
 
 
