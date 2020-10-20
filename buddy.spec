@@ -1,7 +1,7 @@
 Name:    buddy
 Version: 2.4
 Release: 1%{?dist}
-Summary: Say hello, Texas style
+Summary: A Binary Decision Diagram library
 
 License: MIT
 URL: https://sourceforge.net/projects/buddy
