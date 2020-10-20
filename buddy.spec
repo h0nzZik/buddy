@@ -57,7 +57,8 @@ make %{?_smp_mflags}
    %{_includedir}/bdd.h
    %{_includedir}/bvec.h
    %{_includedir}/fdd.h
-   /usr/lib/debug/%{_libdir}/libbdd.so.0.0.0-2.4-1.fc32.x86_64.debug
+   #%{_prefix}/lib/debug/usr/lib64/libbdd.so.0.0.0-2.4-1.git.79.5d36cc6.fc32.x86_64.debug
+   /usr/lib/debug/usr/lib64/libbdd.so.*.debug
    %{_libdir}/libbdd.la
    %{_libdir}/libbdd.a
    %{_libdir}/libbdd.so
